@@ -1,7 +1,5 @@
 # Todolist
 
-Api desenvolvida com Django usando a lib Rest framework
+Api desenvolvida com Django usando a biblioteca Rest framework
 
-Projeto: 
-
-Um simple todo liste 
+Uma Todo liste, no qual pode inserir tarefas a fazer e um botão para adicionar se a tarefa foi concluida.
